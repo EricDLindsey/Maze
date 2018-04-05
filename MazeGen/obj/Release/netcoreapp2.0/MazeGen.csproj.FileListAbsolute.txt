@@ -1,0 +1,11 @@
+D:\projects\Maze\MazeGen\bin\Release\netcoreapp2.0\MazeGen.deps.json
+D:\projects\Maze\MazeGen\bin\Release\netcoreapp2.0\MazeGen.runtimeconfig.json
+D:\projects\Maze\MazeGen\bin\Release\netcoreapp2.0\MazeGen.runtimeconfig.dev.json
+D:\projects\Maze\MazeGen\bin\Release\netcoreapp2.0\MazeGen.dll
+D:\projects\Maze\MazeGen\bin\Release\netcoreapp2.0\MazeGen.pdb
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.csproj.CoreCompileInputs.cache
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.AssemblyInfoInputs.cache
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.AssemblyInfo.cs
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.dll
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.pdb
+D:\projects\Maze\MazeGen\obj\Release\netcoreapp2.0\MazeGen.csprojResolveAssemblyReference.cache
